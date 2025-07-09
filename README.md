@@ -8,6 +8,9 @@ Execute all the jupyter notebook files uploaded after making sure the dataset is
 Follow the documentation uploaded for more details. 
 The project report and presentation is also attached here. 
 
+# Download pre-processed dataset from the below drive link
+https://drive.google.com/drive/folders/1kfk_2PPqbkgX-GjUeL9xnRkfgGAHumf_?usp=sharing 
+
 
 #Contributors
 1. Piyush Pal
